@@ -1,3 +1,4 @@
+# https://docs.python.org/2/library/random.html
 import random
 
 Number = 10**5
